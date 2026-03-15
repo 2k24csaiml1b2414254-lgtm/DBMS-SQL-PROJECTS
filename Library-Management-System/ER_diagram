@@ -1,0 +1,13 @@
+Authors
+   |
+   | author_id
+   |
+Books
+   |
+   | book_id
+   |
+Issue
+   |
+   | member_id
+   |
+Members
